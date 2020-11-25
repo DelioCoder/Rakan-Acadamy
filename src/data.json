@@ -1,0 +1,32 @@
+[
+    {
+        "name": "Python",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/768px-Python-logo-notext.svg.png",
+        "des": "Se trata de un lenguaje de programación multiparadigma, ya que soporta orientación a objetos, programación imperativa y, en menor medida, programación funcional."
+    },
+    {
+        "name": "Java",
+        "img": "https://i.blogs.es/6091fa/java/450_1000.jpg",
+        "des": "Java es un lenguaje de programación y una plataforma informática que fue comercializada por primera vez en 1995 por Sun Microsystems. "
+    },
+    {
+        "name": "JavaScript",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png",
+        "des": "JavaScript es un lenguaje de programación interpretado, dialecto del estándar ECMAScript."
+    },
+    {
+        "name": "C#",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/7/7a/C_Sharp_logo.svg",
+        "des": "es un lenguaje de programación multiparadigma desarrollado y estandarizado por la empresa Microsoft como parte de su plataforma .NET"
+    },
+    {
+        "name": "Html",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/230px-HTML5_logo_and_wordmark.svg.png",
+        "des": "HTML, siglas en inglés de HyperText Markup Language, hace referencia al lenguaje de marcado para la elaboración de páginas web."
+    },
+    {
+        "name": "PHP",
+        "img": "https://desarrolloweb.com/storage/tag_images/actual/6T8eGecQ0XXvTHOvic4ba8mlQXmSEW3vrI7jenmv.png",
+        "des": "PHP es un lenguaje de programación de uso general que se adapta especialmente al desarrollo web.​"
+    }
+]
